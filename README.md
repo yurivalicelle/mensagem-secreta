@@ -1,2 +1,2 @@
 # mensagem-secreta
-Desvendando a mensagem secreta escondida nas imagens
+Desvendando a mensagem secreta nas imagens
